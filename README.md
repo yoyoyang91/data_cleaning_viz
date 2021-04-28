@@ -1,1 +1,1 @@
-# pandas workshop for data cleaning and visualazation 
+# Pandas workshop for data cleaning and visualazation 
